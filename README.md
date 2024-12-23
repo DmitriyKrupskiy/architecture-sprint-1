@@ -7,4 +7,4 @@ header и content блоки.
 3. Микрофрнтэнд работы с карточкой картинки. Добавление/удаление картинки, 
    работа со всплывающими окошками.
    Репозиторий для проверки микрофронтэндов:
-   https://github.com/DmitriyKrupskiy/architecture-sprint-1
+   https://github.com/DmitriyKrupskiy/architecture-sprint-1/tree/spring_1
